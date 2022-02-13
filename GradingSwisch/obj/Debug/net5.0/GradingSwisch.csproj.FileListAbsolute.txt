@@ -1,0 +1,16 @@
+C:\Users\kasutaja\source\repos\PersonalityTest\GradingSwisch\bin\Debug\net5.0\GradingSwisch.exe
+C:\Users\kasutaja\source\repos\PersonalityTest\GradingSwisch\bin\Debug\net5.0\GradingSwisch.deps.json
+C:\Users\kasutaja\source\repos\PersonalityTest\GradingSwisch\bin\Debug\net5.0\GradingSwisch.runtimeconfig.json
+C:\Users\kasutaja\source\repos\PersonalityTest\GradingSwisch\bin\Debug\net5.0\GradingSwisch.runtimeconfig.dev.json
+C:\Users\kasutaja\source\repos\PersonalityTest\GradingSwisch\bin\Debug\net5.0\GradingSwisch.dll
+C:\Users\kasutaja\source\repos\PersonalityTest\GradingSwisch\bin\Debug\net5.0\ref\GradingSwisch.dll
+C:\Users\kasutaja\source\repos\PersonalityTest\GradingSwisch\bin\Debug\net5.0\GradingSwisch.pdb
+C:\Users\kasutaja\source\repos\PersonalityTest\GradingSwisch\obj\Debug\net5.0\GradingSwisch.csproj.AssemblyReference.cache
+C:\Users\kasutaja\source\repos\PersonalityTest\GradingSwisch\obj\Debug\net5.0\GradingSwisch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasutaja\source\repos\PersonalityTest\GradingSwisch\obj\Debug\net5.0\GradingSwisch.AssemblyInfoInputs.cache
+C:\Users\kasutaja\source\repos\PersonalityTest\GradingSwisch\obj\Debug\net5.0\GradingSwisch.AssemblyInfo.cs
+C:\Users\kasutaja\source\repos\PersonalityTest\GradingSwisch\obj\Debug\net5.0\GradingSwisch.csproj.CoreCompileInputs.cache
+C:\Users\kasutaja\source\repos\PersonalityTest\GradingSwisch\obj\Debug\net5.0\GradingSwisch.dll
+C:\Users\kasutaja\source\repos\PersonalityTest\GradingSwisch\obj\Debug\net5.0\ref\GradingSwisch.dll
+C:\Users\kasutaja\source\repos\PersonalityTest\GradingSwisch\obj\Debug\net5.0\GradingSwisch.pdb
+C:\Users\kasutaja\source\repos\PersonalityTest\GradingSwisch\obj\Debug\net5.0\GradingSwisch.genruntimeconfig.cache
